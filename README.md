@@ -1,2 +1,2 @@
 # workshops
-Standalone workshop sessions, short courses, etc.
+Resources for standalone workshop sessions, short courses, etc.
