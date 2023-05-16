@@ -15,4 +15,4 @@ Pandas enables us to transform data for analysis and visualisation. This noteboo
 A data challenge for you to solve by editing/adding code. 
 
 ## 04_Workbook_solution
-A working solution to the workbook challenge if you get stuck.
+Solution to the workbook challenge, with working code.
