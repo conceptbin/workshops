@@ -1,7 +1,10 @@
 # Workshop: Data Analysis with Pandas
-This workshop introduces the basics of the [pandas](https://pandas.pydata.org/docs/user_guide/index.html#) library.
+This workshop introduces the basics of data analysis with the [pandas](https://pandas.pydata.org/docs/user_guide/index.html#) and Seaborn libraries in Python.
 
-You can either run the notebooks locally on your own machine, or open them in [Google Colab](https://colab.research.google.com/) (recommended): In a Colab notebook, in the File menu "Open notebook" -> select "GitHub" from the available sources -> enter the URL of this workshop. You'll be presented with a list of notebooks available in the repository, open the one you want.
+## How to use the notebooks:
+You can either run the notebooks locally on your own machine, or open them in [Google Colab](https://colab.research.google.com/) (recommended): 
+
+In a Colab notebook, in the File menu "Open notebook" -> select "GitHub" from the available sources -> enter the URL of this workshop. You'll be presented with a list of notebooks available in the repository.
 
 # Notebooks
 
@@ -15,4 +18,4 @@ Pandas enables us to transform data for analysis and visualisation. This noteboo
 A data challenge for you to solve by editing/adding code. 
 
 ## 04_Workbook_solution
-A working solution to the workbook challenge if you get stuck.
+Solution to the workbook challenge, with working code.
